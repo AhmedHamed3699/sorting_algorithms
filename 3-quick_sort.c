@@ -45,7 +45,6 @@ int partition(int *array, int left, int right, size_t size)
 void quick_sort_helper(int *array, int left, int right, size_t size)
 {
 	int k;
-	;
 
 	if (left < right)
 	{
